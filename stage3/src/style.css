@@ -1,0 +1,28 @@
+:root {
+    --bg-color: #bae8e8;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+kbd {
+    width: 3rem;
+    background-color: white;
+    border: 5px solid #272643;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 200px;
+    margin-left: -5px;
+}
+
+.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
