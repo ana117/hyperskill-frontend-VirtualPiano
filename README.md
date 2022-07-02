@@ -7,8 +7,8 @@ Link to the project [Virtual Piano](https://hyperskill.org/projects/101).
 
 Link to all of [my Hyperskill projects](https://github.com/ana117/hyperskilll-projects).
 
-## Demo
-
+## Demo (with sound)
+https://user-images.githubusercontent.com/63540951/176994713-adcb2dbc-d2e1-4bc6-8b18-6f6b51882932.mp4
 
 ## Stages
 **Stage 1/5: Add markup**\
